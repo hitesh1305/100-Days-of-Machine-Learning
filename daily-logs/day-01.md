@@ -42,7 +42,7 @@ Build foundational Python knowledge and start developing problem-solving skills.
 ### 2. Largest of Three Numbers
 
 * Used nested `if-else`
-* Compared values step-by-step
+* Compared values using logical `and`
 
 ---
 
@@ -96,8 +96,7 @@ Build foundational Python knowledge and start developing problem-solving skills.
 
 > Code is available in:
 
-* `day-01-python-basics.py` 
-
+- [Day 01 Python Basics Codes](../projects/day-01-python-basics)
 ---
 
 ## 📈 What I Improved Today

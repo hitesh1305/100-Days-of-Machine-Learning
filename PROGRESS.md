@@ -16,7 +16,7 @@
 
 | Day | Focus                               | Status | Notes |
 | --- | ----------------------------------- | ------ | ----- |
-| 1   | Python Basics (loops, conditionals) | ⏳      |       |
+| 1   | Python Basics (loops, conditionals) | ✅    |Solved 6 Problems for basics     |
 | 2   | Problem Solving (logic building)    | ⏳      |       |
 | 3   | Python Practice                     | ⏳      |       |
 | 4   | Functions + Data Structures         | ⏳      |       |
