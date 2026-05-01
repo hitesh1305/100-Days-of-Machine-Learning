@@ -1,305 +1,329 @@
-# 📍 100 Days of Machine Learning 
+# 📍 100 Days of Machine Learning
 
-> Goal: Build strong ML fundamentals, think like an engineer, and develop real-world systems with consistency.
+> Goal: Build strong mathematical intuition, master ML algorithms, and develop real-world ML systems with consistency.
 
 ---
 
 # 🧭 PHASE OVERVIEW
 
-| Phase   | Days   | Focus                             |
-| ------- | ------ | --------------------------------- |
-| Phase 1 | 1–15   | Foundations + Coding Confidence   |
-| Phase 2 | 16–30  | Core ML + First Implementations   |
-| Phase 3 | 31–45  | Data + Evaluation + Real Thinking |
-| Phase 4 | 46–60  | Advanced ML + Model Improvement   |
-| Phase 5 | 61–75  | NLP + Applied Systems             |
-| Phase 6 | 76–90  | End-to-End Projects               |
-| Phase 7 | 91–100 | Revision + Interview + Polish     |
+| Phase   | Days   | Focus                                  |
+| ------- | ------ | -------------------------------------- |
+| Phase 1 | 1–20   | Programming + Mathematical Foundations |
+| Phase 2 | 21–35  | Data Handling + Preprocessing          |
+| Phase 3 | 36–55  | Core Machine Learning                  |
+| Phase 4 | 56–70  | Model Evaluation + Advanced ML         |
+| Phase 5 | 71–85  | Deep Learning + NLP                    |
+| Phase 6 | 86–95  | Applied Systems + Projects             |
+| Phase 7 | 96–100 | Revision + Interview Prep              |
 
 ---
 
-# 🔹 PHASE 1: FOUNDATIONS (Day 1–15)
+# 🔹 PHASE 1: PROGRAMMING + MATH (Day 1–20)
 
 ### 🎯 Goal:
 
-Build strong base in Python + Math + Thinking
+Build strong base in coding + mathematical intuition required for ML
 
 ---
 
 ### 📅 Plan
 
-**Day 1–2**
+**Day 1–3**
 
-* Python basics (loops, functions)
-* Solve 5–10 logic problems
+* Python basics (variables, loops, conditionals)
+* Solve basic problems
 
-**Day 3–4**
+**Day 4–6**
 
-* NumPy arrays
-* Vector operations
-* Small exercises
-
-**Day 5–6**
-
-* Pandas (data cleaning)
-* Work with a real dataset
+* Functions, data structures, OOP basics
+* Exception handling
 
 **Day 7–8**
 
-* Visualization (Matplotlib, Seaborn)
-* Interpret plots
+* NumPy (arrays, operations)
 
 **Day 9–10**
 
-* Mean, variance, standard deviation
-* Distribution intuition
+* Pandas (dataframes, cleaning)
 
-**Day 11–12**
+**Day 11–13**
 
-* Probability basics
-* Conditional probability
+* Statistics:
 
-**Day 13–14**
+  * mean, variance, distributions
+  * probability basics
+  * Bayes theorem
 
-* Linear algebra (vectors, dot product)
+**Day 14–17**
 
-**Day 15 (⚠️ Reinforcement Day)**
+* Linear Algebra:
 
-* Revise all concepts
-* Implement small dataset pipeline
+  * vectors, matrices
+  * dot product
+  * matrix operations
+
+**Day 18–19**
+
+* Calculus:
+
+  * derivatives
+  * partial derivatives
+  * gradient intuition
+
+**Day 20 (⚠️ Reinforcement)**
+
+* Mini pipeline:
+
+  * load dataset → clean → analyze
 
 ---
 
-# 🔹 PHASE 2: CORE ML (Day 16–30)
+# 🔹 PHASE 2: DATA HANDLING (Day 21–35)
 
 ### 🎯 Goal:
 
-Understand ML algorithms deeply (not black box)
+Learn how real-world data is collected and prepared
 
 ---
 
 ### 📅 Plan
 
-**Day 16–18**
+**Day 21–22**
 
-* Linear Regression (from scratch)
-* Cost function intuition
+* Data sources (CSV, JSON, APIs)
 
-**Day 19–20**
+**Day 23–25**
 
-* Gradient Descent (visual + math)
+* Data cleaning:
 
-**Day 21–23**
-
-* Logistic Regression
-* Classification intuition
-
-**Day 24–25**
-
-* KNN (distance-based thinking)
+  * missing values
+  * outliers
+  * inconsistencies
 
 **Day 26–28**
 
-* Decision Trees (entropy, splits)
+* Feature engineering:
 
-**Day 29**
+  * encoding
+  * feature selection
 
-* Compare all models learned
+**Day 29–30**
 
-**Day 30 (⚠️ Reinforcement Day)**
-
-* Implement 1 dataset using 2–3 models
-
----
-
-# 🔹 PHASE 3: DATA + EVALUATION (Day 31–45)
-
-### 🎯 Goal:
-
-Think like a real ML engineer
-
----
-
-### 📅 Plan
+* Feature scaling & normalization
 
 **Day 31–32**
 
-* Data cleaning + missing values
+* Dimensionality reduction (intro + PCA)
 
 **Day 33–34**
 
-* Feature scaling + encoding
+* Data pipelines
 
-**Day 35–36**
+**Day 35 (⚠️ Reinforcement)**
 
-* Metrics (accuracy, precision, recall)
-
-**Day 37–38**
-
-* F1 score + confusion matrix
-
-**Day 39–40**
-
-* Cross-validation
-
-**Day 41–42**
-
-* Bias vs variance
-
-**Day 43–44**
-
-* Overfitting + regularization
-
-**Day 45 (⚠️ Reinforcement Day)**
-
-* Full ML pipeline on dataset
+* Build full preprocessing pipeline
 
 ---
 
-# 🔹 PHASE 4: ADVANCED ML (Day 46–60)
+# 🔹 PHASE 3: CORE MACHINE LEARNING (Day 36–55)
 
 ### 🎯 Goal:
 
-Improve models and understand performance
+Understand and implement ML algorithms deeply
 
 ---
 
 ### 📅 Plan
+
+**Day 36–38**
+
+* What is ML + types of learning
+
+**Day 39–42**
+
+* Linear Regression
+* Polynomial Regression
+
+**Day 43–45**
+
+* Logistic Regression
 
 **Day 46–47**
 
-* Random Forest
+* KNN
 
 **Day 48–50**
 
-* Bagging + Boosting
+* Decision Trees + Random Forest
 
-**Day 51–53**
+**Day 51–52**
 
-* Gradient Boosting + XGBoost
+* Support Vector Machines
 
-**Day 54–56**
+**Day 53–55**
 
-* Hyperparameter tuning
-
-**Day 57–58**
-
-* Pipelines (sklearn)
-
-**Day 59**
-
-* Model comparison techniques
-
-**Day 60 (⚠️ Reinforcement Day)**
-
-* Improve previous models
+* Gradient Boosting basics
 
 ---
 
-# 🔹 PHASE 5: NLP + APPLICATIONS (Day 61–75)
+# 🔹 PHASE 4: MODEL EVALUATION + ADVANCED ML (Day 56–70)
 
 ### 🎯 Goal:
 
-Handle real-world text data
+Learn how to evaluate and improve models
 
 ---
 
 ### 📅 Plan
 
-**Day 61–62**
+**Day 56–58**
 
-* Text cleaning + preprocessing
+* Evaluation metrics:
 
-**Day 63–64**
+  * accuracy, precision, recall, F1
+  * confusion matrix
+  * ROC-AUC
 
-* Tokenization + stopwords
+**Day 59–60**
 
-**Day 65–66**
+* Train-test split
+* Validation techniques (K-Fold, LOOCV)
 
-* Bag of Words
+**Day 61–63**
 
-**Day 67–68**
+* Regularization:
 
-* TF-IDF
+  * Lasso
+  * Ridge
 
-**Day 69–70**
+**Day 64–66**
 
-* Cosine similarity
+* Model selection + tuning
+
+**Day 67–69**
+
+* Advanced topics:
+
+  * bias vs variance
+  * overfitting solutions
+
+**Day 70 (⚠️ Reinforcement)**
+
+* Evaluate multiple models on dataset
+
+---
+
+# 🔹 PHASE 5: DEEP LEARNING + NLP (Day 71–85)
+
+### 🎯 Goal:
+
+Understand neural networks and text processing
+
+---
+
+### 📅 Plan
 
 **Day 71–73**
 
-* Build mini NLP system
+* Neural networks basics:
 
-**Day 74**
+  * perceptron
+  * forward/backpropagation
+  * activation functions
 
-* Improve NLP system
+**Day 74–76**
 
-**Day 75 (⚠️ Reinforcement Day)**
+* Deep learning libraries:
 
-* End-to-end NLP pipeline
+  * TensorFlow / PyTorch (basic usage)
+
+**Day 77–79**
+
+* CNN basics:
+
+  * convolution
+  * pooling
+  * applications
+
+**Day 80–81**
+
+* RNN, LSTM, GRU (conceptual)
+
+**Day 82–83**
+
+* NLP basics:
+
+  * tokenization
+  * stemming, lemmatization
+
+**Day 84**
+
+* Text representation:
+
+  * embeddings
+  * attention (intro)
+
+**Day 85 (⚠️ Reinforcement)**
+
+* Build simple NN or NLP model
 
 ---
 
-# 🔹 PHASE 6: PROJECTS (Day 76–90)
+# 🔹 PHASE 6: APPLIED SYSTEMS + PROJECTS (Day 86–95)
 
 ### 🎯 Goal:
 
-Build complete ML systems (not just models)
+Build complete ML systems
 
 ---
 
 ### 📅 Plan
 
-**Day 76–80 — Regression System**
+**Day 86–88**
 
-* EDA → preprocessing → model → evaluation → improvement
+* Regression system (end-to-end)
 
-**Day 81–85 — Classification System**
+**Day 89–91**
 
-* Compare models + optimize + evaluate deeply
+* Classification system
 
-**Day 86–90 — NLP System**
+**Day 92–93**
 
-* Text pipeline + similarity/classification system
+* NLP system
+
+**Day 94–95**
+
+* Improve and refine systems
+* Add proper documentation
 
 ---
 
-# 🔹 PHASE 7: FINAL PHASE (Day 91–100)
+# 🔹 PHASE 7: FINAL PHASE (Day 96–100)
 
 ### 🎯 Goal:
 
-Become interview-ready + polish portfolio
+Become interview-ready
 
 ---
 
 ### 📅 Plan
 
-**Day 91–94**
-📌 Resume Screening System
-
-* Improve logic
-* Make outputs structured
-
-**Day 95–96**
+**Day 96–97**
 
 * Revise all ML algorithms
-* Focus on intuition + explanation
 
-**Day 97–98**
+**Day 98**
 
-* Practice ML interview questions
 * Explain concepts aloud
 
 **Day 99**
 
-* Fix weak areas
-* Review mistakes
+* Practice interview questions
 
 **Day 100**
 
-* Clean GitHub
-* Final README update
-* Resume optimization
+* Final GitHub polish
+* Resume update
 
 ---
 
@@ -307,22 +331,22 @@ Become interview-ready + polish portfolio
 
 After 100 days:
 
-* Strong ML fundamentals
-* 3+ complete projects
-* Interview-ready explanations
-* Professional GitHub portfolio
+* Strong mathematical intuition
+* Deep ML understanding
+* 3+ real ML systems
+* Interview-ready knowledge
 
 ---
 
 # 🔥 RULES
 
 * Learn → Implement → Reflect
-* Every 5–7 days → Reinforcement
-* No passive watching
-* Always connect theory to code
+* Every phase ends with reinforcement
+* No passive learning
+* Always connect math → ML → code
 
 ---
 
 # 🧠 CORE PRINCIPLE
 
-> “Depth + Consistency > Speed”
+> “From fundamentals to systems — not shortcuts.”

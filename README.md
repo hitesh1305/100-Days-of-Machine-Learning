@@ -1,194 +1,179 @@
 # 🚀 100 Days of Machine Learning
 
-> A structured journey to mastering Machine Learning — based on daily practice, projects, and deep understanding.
+> Building Machine Learning expertise from fundamentals to real-world systems through 100 days of consistent execution.
 
 ---
 
 ## 📌 Overview
 
-This repository documents my **100-day journey into Machine Learning**, inspired by the roadmap from roadmap.sh and transformed into a **daily execution plan**.
+This repository documents my **100-day journey into Machine Learning**, focused on:
 
-The focus is not just on learning concepts, but on:
+* 🧠 Building strong mathematical foundations
+* ⚙️ Implementing ML algorithms from scratch
+* 📊 Working with real-world data
+* 🚀 Developing end-to-end ML systems
+* 📅 Maintaining strict daily consistency
 
-* understanding fundamentals deeply
-* implementing algorithms from scratch
-* building real-world systems
-* maintaining consistent progress
+This is not just a learning log — it is a **structured engineering journey**.
 
 ---
 
 ## 🎯 Objectives
 
-* Build strong foundations in mathematics and machine learning
-* Understand how algorithms work internally
-* Apply ML concepts to real-world problems
-* Develop a structured and consistent learning habit
-* Prepare for ML/AI engineering roles
+* Develop deep understanding of ML concepts (not just usage)
+* Strengthen problem-solving and coding skills
+* Learn how to handle real-world data pipelines
+* Build complete ML systems from data to prediction
+* Become interview-ready for ML roles
 
 ---
 
-## 🧭 Learning Approach
+## 🧭 Learning Structure
 
-This journey follows a structured path inspired by industry standards:
+The journey is divided into 7 phases:
 
-1. **Foundations**
+### 🔹 Phase 1: Programming + Mathematical Foundations
 
-   * Python, NumPy, Pandas
-   * Linear Algebra and Statistics
+* Python fundamentals
+* Linear algebra, probability, statistics
+* Calculus intuition (gradients, derivatives)
 
-2. **Core Machine Learning**
+### 🔹 Phase 2: Data Handling
 
-   * Regression and Classification
-   * Decision Trees, KNN, Naive Bayes
+* Data collection and formats
+* Data cleaning and preprocessing
+* Feature engineering and scaling
 
-3. **Data Processing & Evaluation**
+### 🔹 Phase 3: Core Machine Learning
 
-   * Feature engineering
-   * Model evaluation techniques
+* Regression and classification algorithms
+* Decision trees, SVM, KNN, boosting
 
-4. **Advanced Machine Learning**
+### 🔹 Phase 4: Model Evaluation & Optimization
 
-   * Ensemble methods
-   * Model optimization
+* Evaluation metrics
+* Cross-validation
+* Regularization and tuning
 
-5. **Natural Language Processing**
+### 🔹 Phase 5: Deep Learning & NLP
 
-   * Text preprocessing
-   * TF-IDF, similarity models
+* Neural networks and backpropagation
+* CNNs, RNNs (conceptual understanding)
+* NLP fundamentals and text processing
 
-6. **Projects & Systems**
+### 🔹 Phase 6: Applied Systems
 
-   * End-to-end ML pipelines
-   * Real-world problem solving
+* End-to-end ML projects
+* Model building + evaluation + improvement
+
+### 🔹 Phase 7: Revision & Interview Prep
+
+* Concept revision
+* ML interview preparation
+* Portfolio polishing
+
+👉 Detailed roadmap: [`ROADMAP.md`](./ROADMAP.md)
 
 ---
 
-## 📅 Progress Tracker
+## 📊 Progress Tracking
 
-| Day    | Topic         | Status |
-| ------ | ------------- | ------ |
-| Day 01 | Python Basics | ⏳      |
-| Day 02 | NumPy         | ⏳      |
-| Day 03 | Pandas        | ⏳      |
-| ...    | ...           | ...    |
+Daily progress is tracked with:
 
-👉 Full progress available in [`PROGRESS.md`](./PROGRESS.md)
+* topic covered
+* implementation work
+* key insights
 
----
-
-## 🗺️ Roadmap
-
-This journey is divided into phases:
-
-### 🔹 Phase 1: Foundations
-
-* Python for ML
-* Linear Algebra
-* Statistics
-
-### 🔹 Phase 2: Core Machine Learning
-
-* Linear Regression
-* Logistic Regression
-* Decision Trees
-* KNN
-
-### 🔹 Phase 3: Data & Evaluation
-
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-
-### 🔹 Phase 4: Advanced ML
-
-* Ensemble learning
-* Hyperparameter tuning
-
-### 🔹 Phase 5: NLP
-
-* Text processing
-* TF-IDF and similarity
-
-### 🔹 Phase 6: Projects
-
-* End-to-end ML systems
-* Applied learning
-
-👉 Detailed breakdown: [`ROADMAP.md`](./ROADMAP.md)
+👉 View full tracker: [`PROGRESS.md`](./PROGRESS.md)
 
 ---
 
 ## 📂 Repository Structure
 
-```bash id="l85p7u"
-daily-logs/     → Daily learning logs
-concepts/       → Deep theoretical understanding
-projects/       → Hands-on ML projects
-datasets/       → Data references
-utils/          → Reusable helper functions
+```bash
+daily-logs/     → Daily learning logs (Day 1 → Day 100)
+concepts/       → Deep explanations and notes
+projects/       → ML systems and implementations
+datasets/       → Dataset references
 ```
 
 ---
 
-## ⚙️ Projects
+## 🧠 How I Learn
 
-This repository will include:
+Each day follows a structured approach:
 
-* Regression and classification systems
-* NLP-based applications
-* End-to-end ML pipelines
+1. **Understand**
 
-Each project focuses on:
+   * Learn core concept
 
-* problem understanding
-* data handling
-* model building
-* evaluation and improvement
+2. **Implement**
 
----
+   * Write code / solve problems
 
-## 🛠️ Tech Stack
+3. **Reflect**
 
-* Python
-* NumPy, Pandas
-* Scikit-learn
-* Matplotlib, Seaborn
-* NLP tools (TF-IDF, NLTK)
+   * Document insights and mistakes
+
+This ensures depth over superficial coverage.
 
 ---
 
 ## 📘 Daily Logs
 
-Each day is documented with:
+Each day includes:
 
 * What I learned
 * Key insights
-* Implementation details
+* Implementation work
 * Mistakes and corrections
 
 👉 Example: [`daily-logs/day-01.md`](./daily-logs/day-01.md)
 
 ---
 
+## ⚙️ Tech Stack
+
+* Python
+* NumPy, Pandas
+* Scikit-learn
+* Matplotlib, Seaborn
+* Deep Learning frameworks (later stages)
+
+---
+
 ## 📈 What Makes This Different
 
-* Focus on **understanding over memorization**
-* Daily consistency with structured tracking
-* Integration of theory and implementation
-* Emphasis on real-world problem solving
+* Focus on **fundamentals before tools**
+* Strong emphasis on **mathematical intuition**
+* Learning aligned with real-world ML workflows
+* Daily consistency and structured tracking
+* Building systems, not just running models
 
 ---
 
 ## 🔥 Motivation
 
-> “Consistency builds competence.”
+> “From fundamentals to systems — not shortcuts.”
+
+---
+
+## 🚀 Expected Outcome
+
+By the end of 100 days:
+
+* Strong ML fundamentals
+* Ability to implement and explain algorithms
+* 3+ real-world ML systems
+* Interview-ready knowledge
+* A clean, professional GitHub portfolio
 
 ---
 
 ## 🤝 Connect
 
-If you're also learning ML or want to collaborate, feel free to connect.
+If you're on a similar journey or want to collaborate, feel free to connect.
 
 ---
 
-⭐ If you find this helpful, consider starring the repo!
+⭐ If you find this helpful, consider starring the repository!

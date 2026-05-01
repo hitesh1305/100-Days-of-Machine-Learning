@@ -1,6 +1,6 @@
 # 📊 100 Days of Machine Learning — Progress Tracker
 
-> Tracking consistency, implementation, and real understanding.
+> Tracking execution, understanding, and consistency across 100 days.
 
 ---
 
@@ -12,177 +12,177 @@
 
 ---
 
-# 🔹 PHASE 1: FOUNDATIONS (Day 1–15)
+# 🔹 PHASE 1: PROGRAMMING + MATH (Day 1–20)
 
-| Day | Focus                            | Status | Notes |
-| --- | -------------------------------- | ------ | ----- |
-| 1 | Python Basics + Problems | ✅ | solved 8 problems, understood loops deeply |
-| 2   | Python Practice                  | ⏳      |       |
-| 3   | NumPy Basics                     | ⏳      |       |
-| 4   | NumPy Operations                 | ⏳      |       |
-| 5   | Pandas Basics                    | ⏳      |       |
-| 6   | Data Cleaning                    | ⏳      |       |
-| 7   | Matplotlib                       | ⏳      |       |
-| 8   | Seaborn + Interpretation         | ⏳      |       |
-| 9   | Mean + Variance                  | ⏳      |       |
-| 10  | Distributions                    | ⏳      |       |
-| 11  | Probability Basics               | ⏳      |       |
-| 12  | Conditional Probability          | ⏳      |       |
-| 13  | Vectors                          | ⏳      |       |
-| 14  | Dot Product                      | ⏳      |       |
-| 15  | ⚠️ Reinforcement + Mini Pipeline | ⏳      |       |
+| Day | Focus                               | Status | Notes |
+| --- | ----------------------------------- | ------ | ----- |
+| 1   | Python Basics (loops, conditionals) | ⏳      |       |
+| 2   | Problem Solving (logic building)    | ⏳      |       |
+| 3   | Python Practice                     | ⏳      |       |
+| 4   | Functions + Data Structures         | ⏳      |       |
+| 5   | OOP Basics                          | ⏳      |       |
+| 6   | Exception Handling                  | ⏳      |       |
+| 7   | NumPy Basics                        | ⏳      |       |
+| 8   | NumPy Operations                    | ⏳      |       |
+| 9   | Pandas Basics                       | ⏳      |       |
+| 10  | Data Cleaning                       | ⏳      |       |
+| 11  | Mean + Variance                     | ⏳      |       |
+| 12  | Probability Basics                  | ⏳      |       |
+| 13  | Bayes Theorem                       | ⏳      |       |
+| 14  | Vectors                             | ⏳      |       |
+| 15  | Matrix Operations                   | ⏳      |       |
+| 16  | Linear Algebra Practice             | ⏳      |       |
+| 17  | Derivatives                         | ⏳      |       |
+| 18  | Partial Derivatives                 | ⏳      |       |
+| 19  | Gradient Intuition                  | ⏳      |       |
+| 20  | ⚠️ Reinforcement + Mini Pipeline    | ⏳      |       |
 
 ---
 
-# 🔹 PHASE 2: CORE ML (Day 16–30)
+# 🔹 PHASE 2: DATA HANDLING (Day 21–35)
+
+| Day | Focus                                 | Status | Notes |
+| --- | ------------------------------------- | ------ | ----- |
+| 21  | Data Sources (CSV, JSON)              | ⏳      |       |
+| 22  | APIs + Data Collection                | ⏳      |       |
+| 23  | Missing Values                        | ⏳      |       |
+| 24  | Outliers                              | ⏳      |       |
+| 25  | Data Cleaning Techniques              | ⏳      |       |
+| 26  | Encoding (categorical)                | ⏳      |       |
+| 27  | Feature Engineering                   | ⏳      |       |
+| 28  | Feature Selection                     | ⏳      |       |
+| 29  | Scaling + Normalization               | ⏳      |       |
+| 30  | Data Transformation                   | ⏳      |       |
+| 31  | Dimensionality Reduction              | ⏳      |       |
+| 32  | PCA                                   | ⏳      |       |
+| 33  | Data Pipelines                        | ⏳      |       |
+| 34  | Pipeline Implementation               | ⏳      |       |
+| 35  | ⚠️ Reinforcement + Full Preprocessing | ⏳      |       |
+
+---
+
+# 🔹 PHASE 3: CORE MACHINE LEARNING (Day 36–55)
 
 | Day | Focus                                   | Status | Notes |
 | --- | --------------------------------------- | ------ | ----- |
-| 16  | Linear Regression Theory                | ⏳      |       |
-| 17  | Linear Regression From Scratch          | ⏳      |       |
-| 18  | Cost Function                           | ⏳      |       |
-| 19  | Gradient Descent                        | ⏳      |       |
-| 20  | GD Visualization                        | ⏳      |       |
-| 21  | Logistic Regression Theory              | ⏳      |       |
-| 22  | Logistic Implementation                 | ⏳      |       |
-| 23  | Decision Boundary                       | ⏳      |       |
-| 24  | Logistic Practice                       | ⏳      |       |
-| 25  | KNN Theory                              | ⏳      |       |
-| 26  | KNN Implementation                      | ⏳      |       |
-| 27  | Distance Metrics                        | ⏳      |       |
-| 28  | Decision Trees Theory                   | ⏳      |       |
-| 29  | Model Comparison                        | ⏳      |       |
-| 30  | ⚠️ Reinforcement + Multi-model Practice | ⏳      |       |
+| 36  | What is ML + Types                      | ⏳      |       |
+| 37  | Supervised vs Unsupervised              | ⏳      |       |
+| 38  | ML Workflow                             | ⏳      |       |
+| 39  | Linear Regression                       | ⏳      |       |
+| 40  | Polynomial Regression                   | ⏳      |       |
+| 41  | Regression Implementation               | ⏳      |       |
+| 42  | Logistic Regression                     | ⏳      |       |
+| 43  | Logistic Implementation                 | ⏳      |       |
+| 44  | KNN                                     | ⏳      |       |
+| 45  | KNN Implementation                      | ⏳      |       |
+| 46  | Decision Trees                          | ⏳      |       |
+| 47  | Random Forest                           | ⏳      |       |
+| 48  | Tree Implementation                     | ⏳      |       |
+| 49  | Support Vector Machine                  | ⏳      |       |
+| 50  | SVM Implementation                      | ⏳      |       |
+| 51  | Gradient Boosting                       | ⏳      |       |
+| 52  | Boosting Implementation                 | ⏳      |       |
+| 53  | Model Comparison                        | ⏳      |       |
+| 54  | Model Analysis                          | ⏳      |       |
+| 55  | ⚠️ Reinforcement + Multi-model Pipeline | ⏳      |       |
 
 ---
 
-# 🔹 PHASE 3: DATA + EVALUATION (Day 31–45)
+# 🔹 PHASE 4: MODEL EVALUATION + ADVANCED ML (Day 56–70)
 
-| Day | Focus                            | Status | Notes |
-| --- | -------------------------------- | ------ | ----- |
-| 31  | Data Cleaning                    | ⏳      |       |
-| 32  | Missing Values                   | ⏳      |       |
-| 33  | Feature Scaling                  | ⏳      |       |
-| 34  | Encoding                         | ⏳      |       |
-| 35  | Accuracy                         | ⏳      |       |
-| 36  | Precision + Recall               | ⏳      |       |
-| 37  | F1 Score                         | ⏳      |       |
-| 38  | Confusion Matrix                 | ⏳      |       |
-| 39  | Cross Validation                 | ⏳      |       |
-| 40  | K-Fold                           | ⏳      |       |
-| 41  | Bias vs Variance                 | ⏳      |       |
-| 42  | Overfitting                      | ⏳      |       |
-| 43  | Regularization                   | ⏳      |       |
-| 44  | Pipeline Thinking                | ⏳      |       |
-| 45  | ⚠️ Reinforcement + Full Pipeline | ⏳      |       |
-
----
-
-# 🔹 PHASE 4: ADVANCED ML (Day 46–60)
-
-| Day | Focus                                | Status | Notes |
-| --- | ------------------------------------ | ------ | ----- |
-| 46  | Random Forest                        | ⏳      |       |
-| 47  | RF Implementation                    | ⏳      |       |
-| 48  | Bagging                              | ⏳      |       |
-| 49  | Boosting                             | ⏳      |       |
-| 50  | AdaBoost                             | ⏳      |       |
-| 51  | Gradient Boosting                    | ⏳      |       |
-| 52  | XGBoost                              | ⏳      |       |
-| 53  | Hyperparameter Tuning                | ⏳      |       |
-| 54  | Grid Search                          | ⏳      |       |
-| 55  | Pipeline Building                    | ⏳      |       |
-| 56  | Model Optimization                   | ⏳      |       |
-| 57  | Feature Importance                   | ⏳      |       |
-| 58  | Model Comparison                     | ⏳      |       |
-| 59  | Improvement Iterations               | ⏳      |       |
-| 60  | ⚠️ Reinforcement + Model Improvement | ⏳      |       |
+| Day | Focus                               | Status | Notes |
+| --- | ----------------------------------- | ------ | ----- |
+| 56  | Accuracy + Precision                | ⏳      |       |
+| 57  | Recall + F1 Score                   | ⏳      |       |
+| 58  | Confusion Matrix                    | ⏳      |       |
+| 59  | ROC-AUC                             | ⏳      |       |
+| 60  | Train-Test Split                    | ⏳      |       |
+| 61  | Cross Validation                    | ⏳      |       |
+| 62  | K-Fold                              | ⏳      |       |
+| 63  | LOOCV                               | ⏳      |       |
+| 64  | Regularization (Lasso, Ridge)       | ⏳      |       |
+| 65  | Model Tuning                        | ⏳      |       |
+| 66  | Hyperparameter Optimization         | ⏳      |       |
+| 67  | Bias vs Variance                    | ⏳      |       |
+| 68  | Overfitting                         | ⏳      |       |
+| 69  | Model Selection                     | ⏳      |       |
+| 70  | ⚠️ Reinforcement + Model Evaluation | ⏳      |       |
 
 ---
 
-# 🔹 PHASE 5: NLP + APPLICATIONS (Day 61–75)
+# 🔹 PHASE 5: DEEP LEARNING + NLP (Day 71–85)
 
-| Day | Focus                             | Status | Notes |
-| --- | --------------------------------- | ------ | ----- |
-| 61  | Text Cleaning                     | ⏳      |       |
-| 62  | Tokenization                      | ⏳      |       |
-| 63  | Stopwords                         | ⏳      |       |
-| 64  | Bag of Words                      | ⏳      |       |
-| 65  | BOW Implementation                | ⏳      |       |
-| 66  | TF-IDF                            | ⏳      |       |
-| 67  | TF-IDF Implementation             | ⏳      |       |
-| 68  | Cosine Similarity                 | ⏳      |       |
-| 69  | Similarity Applications           | ⏳      |       |
-| 70  | NLP Mini System                   | ⏳      |       |
-| 71  | Improve NLP Model                 | ⏳      |       |
-| 72  | Error Analysis                    | ⏳      |       |
-| 73  | Optimization                      | ⏳      |       |
-| 74  | System Refinement                 | ⏳      |       |
-| 75  | ⚠️ Reinforcement + End-to-End NLP | ⏳      |       |
-
----
-
-# 🔹 PHASE 6: PROJECTS (Day 76–90)
-
-| Day | Focus                          | Status | Notes |
-| --- | ------------------------------ | ------ | ----- |
-| 76  | Regression Project (EDA)       | ⏳      |       |
-| 77  | Data Processing                | ⏳      |       |
-| 78  | Model Building                 | ⏳      |       |
-| 79  | Evaluation                     | ⏳      |       |
-| 80  | Improvement + README           | ⏳      |       |
-| 81  | Classification Project (Setup) | ⏳      |       |
-| 82  | Feature Engineering            | ⏳      |       |
-| 83  | Model Training                 | ⏳      |       |
-| 84  | Evaluation Metrics             | ⏳      |       |
-| 85  | Optimization + Finalization    | ⏳      |       |
-| 86  | NLP Project (Setup)            | ⏳      |       |
-| 87  | Text Processing                | ⏳      |       |
-| 88  | Model Building                 | ⏳      |       |
-| 89  | Evaluation                     | ⏳      |       |
-| 90  | Final System + README          | ⏳      |       |
+| Day | Focus                           | Status | Notes |
+| --- | ------------------------------- | ------ | ----- |
+| 71  | Neural Networks Basics          | ⏳      |       |
+| 72  | Forward Propagation             | ⏳      |       |
+| 73  | Backpropagation                 | ⏳      |       |
+| 74  | Activation Functions            | ⏳      |       |
+| 75  | Loss Functions                  | ⏳      |       |
+| 76  | TensorFlow / PyTorch Basics     | ⏳      |       |
+| 77  | CNN Concepts                    | ⏳      |       |
+| 78  | Convolution + Pooling           | ⏳      |       |
+| 79  | CNN Applications                | ⏳      |       |
+| 80  | RNN + LSTM                      | ⏳      |       |
+| 81  | NLP Basics (Tokenization)       | ⏳      |       |
+| 82  | Stemming + Lemmatization        | ⏳      |       |
+| 83  | Embeddings                      | ⏳      |       |
+| 84  | Attention (Intro)               | ⏳      |       |
+| 85  | ⚠️ Reinforcement + NN/NLP Model | ⏳      |       |
 
 ---
 
-# 🔹 PHASE 7: FINAL PHASE (Day 91–100)
+# 🔹 PHASE 6: PROJECTS (Day 86–95)
 
-| Day | Focus                     | Status | Notes |
-| --- | ------------------------- | ------ | ----- |
-| 91  | Resume System Improvement | ⏳      |       |
-| 92  | Pipeline Refinement       | ⏳      |       |
-| 93  | Structured Output         | ⏳      |       |
-| 94  | System Improvement        | ⏳      |       |
-| 95  | ML Revision               | ⏳      |       |
-| 96  | Algorithm Explanation     | ⏳      |       |
-| 97  | Interview Practice        | ⏳      |       |
-| 98  | Mock Questions            | ⏳      |       |
-| 99  | Weak Area Fix             | ⏳      |       |
-| 100 | GitHub + Resume Polish    | ⏳      |       |
+| Day | Focus                       | Status | Notes |
+| --- | --------------------------- | ------ | ----- |
+| 86  | Regression System (EDA)     | ⏳      |       |
+| 87  | Data Processing             | ⏳      |       |
+| 88  | Model Building              | ⏳      |       |
+| 89  | Evaluation                  | ⏳      |       |
+| 90  | Classification System       | ⏳      |       |
+| 91  | Model Comparison            | ⏳      |       |
+| 92  | NLP System                  | ⏳      |       |
+| 93  | NLP Implementation          | ⏳      |       |
+| 94  | System Improvement          | ⏳      |       |
+| 95  | Final Project Documentation | ⏳      |       |
 
 ---
 
-# 📈 Weekly Reflection (VERY IMPORTANT)
+# 🔹 PHASE 7: FINAL PHASE (Day 96–100)
+
+| Day | Focus                  | Status | Notes |
+| --- | ---------------------- | ------ | ----- |
+| 96  | ML Algorithm Revision  | ⏳      |       |
+| 97  | Explain Concepts       | ⏳      |       |
+| 98  | Interview Questions    | ⏳      |       |
+| 99  | Weak Area Fix          | ⏳      |       |
+| 100 | GitHub + Resume Polish | ⏳      |       |
+
+---
+
+# 📈 WEEKLY REFLECTION (MANDATORY)
 
 At the end of each week:
 
-* What did I understand deeply?
+* What did I truly understand?
 * What did I struggle with?
 * What needs revision?
-* Did I build something real?
+* Did I build something meaningful?
 
 ---
 
-# 🧠 Consistency Rule
+# 🧠 CONSISTENCY RULE
 
-> Small daily progress → big long-term results
+> “Small progress daily > occasional bursts”
 
 ---
 
-# 🚀 End Goal
+# 🚀 FINAL TARGET
 
 By Day 100:
 
-* Strong ML fundamentals
-* 3+ complete projects
-* Interview-ready explanations
-* Clean and professional GitHub profile
+* Strong math + ML foundation
+* 3+ real ML systems
+* Ability to explain any concept clearly
+* Professional GitHub portfolio
