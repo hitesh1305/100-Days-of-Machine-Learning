@@ -17,7 +17,7 @@
 | Day | Focus                               | Status | Notes |
 | --- | ----------------------------------- | ------ | ----- |
 | 1   | Python Basics (loops, conditionals) | ✅    |Solved 6 Problems for basics     |
-| 2   | Problem Solving (logic building)    | ✅      |Solved 3 intermediate problems with basic to optimal approaches       |
+| 2 | Problem Solving + Linear Algebra Basics | ✅ | prime numbers (basic to optimized), gcd, fibonacci + vectors, matrices, SVD Overview, eigen concepts |
 | 3   | Python Practice                     | ⏳      |       |
 | 4   | Functions + Data Structures         | ⏳      |       |
 | 5   | OOP Basics                          | ⏳      |       |
