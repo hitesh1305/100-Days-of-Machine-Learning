@@ -18,7 +18,7 @@
 | --- | ----------------------------------- | ------ | ----- |
 | 1   | Python Basics (loops, conditionals) | ✅    |Solved 6 Problems for basics     |
 | 2 | Problem Solving + Linear Algebra Basics | ✅ | prime numbers (basic to optimized), gcd, fibonacci + vectors, matrices, SVD Overview, eigen concepts |
-| 3   | Python Practice                     | ⏳      |       |
+| 3 | Data Structures + Calculus (conceptual) | ✅ | list/set/dict operations, frequency map, set-based optimization, modular functions |
 | 4   | Functions + Data Structures         | ⏳      |       |
 | 5   | OOP Basics                          | ⏳      |       |
 | 6   | Exception Handling                  | ⏳      |       |
