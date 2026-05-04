@@ -170,7 +170,7 @@ Average squared deviation from mean
 
 ### 📌 Formula:
 
-$$ \text{SD} = \sqrt{\text{Var}} $$
+`Standard Deviation = sqrt(Variance)`
 ---
 
 ### 🧠 Intuition:
@@ -318,7 +318,7 @@ Measures how two variables change together
 
 ### 📌 Formula (Pearson):
 
-$$ r = \frac{Cov(X, Y)}{\sigma_x \cdot \sigma_y} $$
+`r = Cov(X, Y) / (sigma_x * sigma_y)`
 ---
 
 ### ✔ Range:
