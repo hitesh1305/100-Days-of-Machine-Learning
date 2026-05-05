@@ -20,7 +20,7 @@
 | 2 | Problem Solving + Linear Algebra Basics | ✅ | prime numbers (basic to optimized), gcd, fibonacci + vectors, matrices, SVD Overview, eigen concepts |
 | 3 | Data Structures + Calculus (conceptual) | ✅ | list/set/dict operations, frequency map, set-based optimization, modular functions |
 | 4 | NumPy Basics + Statistics (conceptual) | ✅ | arrays, vectorization, masking, basic stats, distribution, outliers |
-| 5   | OOP Basics                          | ⏳      |       |
+| 5 | Pandas + Probability (data processing & fundamentals) | ✅ | dataframe operations, filtering, feature engineering, missing data handling, probability basics, Bayes theorem, distributions |
 | 6   | Exception Handling                  | ⏳      |       |
 | 7   | NumPy Basics                        | ⏳      |       |
 | 8   | NumPy Operations                    | ⏳      |       |
