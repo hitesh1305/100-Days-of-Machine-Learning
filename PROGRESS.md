@@ -21,7 +21,7 @@
 | 4 | NumPy + Statistics Foundations | ✅ | vectorization, masking, broadcasting, variance, SD, distributions, correlation, outliers |
 | 5 | Pandas + Probability Foundations | ✅ | DataFrames, filtering, feature engineering, Bayes theorem, distributions, random variables |
 | 6 | Data Preprocessing Pipeline | ✅ | missing values, encoding, train-test split, feature scaling, standardization, data leakage |
-| 7 |  | ⏳ |  |
+| 7 | Introduction to ML + Simple Linear Regression | ✅ | regression basics, best fit line, residuals, train-test split, model training, prediction, visualization |
 | 8 |  | ⏳ |  |
 | 9 |  | ⏳ |  |
 | 10 |  | ⏳ |  |
