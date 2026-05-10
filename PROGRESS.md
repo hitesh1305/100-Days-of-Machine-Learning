@@ -24,7 +24,7 @@
 | 6   | Data Preprocessing Pipeline                       | ✅      | missing values, encoding, train-test split, feature scaling, standardization, data leakage                          |
 | 7   | Introduction to ML + Simple Linear Regression     | ✅      | regression basics, best fit line, residuals, train-test split, model training, prediction, visualization            |
 | 8   | Multiple Linear Regression                        | ✅      | multiple features, One Hot Encoding, dummy variable trap, coefficients, R² score, actual vs predicted visualization |
-| 9   | Polynomial Regression                             | ⏳      | non-linear regression, polynomial features, curve fitting intuition                                                 |
+| 9 | Logistic Regression | ✅ | classification basics, sigmoid function, feature scaling, confusion matrix, probability prediction, decision boundary intuition |                                    |
 | 10  | Support Vector Regression (SVR)                   | ⏳      | kernels, margins, support vectors, feature scaling importance                                                       |
 
 ---
