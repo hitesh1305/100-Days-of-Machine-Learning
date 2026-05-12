@@ -32,7 +32,7 @@ Examples:
 Dataset file used:
 
 ```text
-datasets/day-09-Social_Network_Ads.csv
+datasets/Social_Network_Ads.csv
 ```
 
 ---

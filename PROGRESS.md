@@ -25,7 +25,7 @@
 | 7   | Introduction to ML + Simple Linear Regression     | ✅      | regression basics, best fit line, residuals, train-test split, model training, prediction, visualization            |
 | 8   | Multiple Linear Regression                        | ✅      | multiple features, One Hot Encoding, dummy variable trap, coefficients, R² score, actual vs predicted visualization |
 | 9 | Logistic Regression | ✅ | classification basics, sigmoid function, feature scaling, confusion matrix, probability prediction, decision boundary intuition |                                    |
-| 10  | Support Vector Regression (SVR)                   | ⏳      | kernels, margins, support vectors, feature scaling importance                                                       |
+| 10 | Revision of Data Cleaning & Preprocessing Techniques | ✅ | data cleaning, feature engineering, feature selection, normalization vs standardization, dimensionality reduction, PCA intuition, data leakage revision |                                                      |
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Day | Focus                           | Status | Notes                                                        |
 | --- | ------------------------------- | ------ | ------------------------------------------------------------ |
-| 11  | Decision Tree Regression        | ⏳      | splitting logic, tree intuition, overfitting basics          |
+| 11 | K-Nearest Neighbors (KNN) | ✅ | KNN intuition, Euclidean distance, feature scaling, majority voting, value of K, lazy learning, instance-based learning, confusion matrix |
 | 12  | Random Forest Regression        | ⏳      | ensemble learning, averaging predictions, variance reduction |
 | 13  | Regression Evaluation Metrics   | ⏳      | MAE, MSE, RMSE, adjusted R², bias vs variance                |
 | 14  | Logistic Regression             | ⏳      | sigmoid function, binary classification intuition            |
