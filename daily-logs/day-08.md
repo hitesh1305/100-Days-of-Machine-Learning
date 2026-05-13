@@ -68,9 +68,6 @@ Predict startup profit based on:
 
 Dataset file used:
 
-```text
-day-08-50_Startups.csv
-```
 [day-08-50_Startups.csv](../datasets/day-08-50_Startups.csv)
 
 Dataset contained:

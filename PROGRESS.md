@@ -34,7 +34,7 @@
 | Day | Focus                           | Status | Notes                                                        |
 | --- | ------------------------------- | ------ | ------------------------------------------------------------ |
 | 11 | K-Nearest Neighbors (KNN) | ✅ | KNN intuition, Euclidean distance, feature scaling, majority voting, value of K, lazy learning, instance-based learning, confusion matrix |
-| 12  | Random Forest Regression        | ⏳      | ensemble learning, averaging predictions, variance reduction |
+| 12 | Decision Tree Classification | ✅ | entropy, information gain, recursive splitting, impurity reduction, overfitting intuition, feature importance, Iris dataset classification, tree visualization |
 | 13  | Regression Evaluation Metrics   | ⏳      | MAE, MSE, RMSE, adjusted R², bias vs variance                |
 | 14  | Logistic Regression             | ⏳      | sigmoid function, binary classification intuition            |
 | 15  | K-Nearest Neighbors (KNN)       | ⏳      | distance metrics, lazy learning, nearest neighbor intuition  |

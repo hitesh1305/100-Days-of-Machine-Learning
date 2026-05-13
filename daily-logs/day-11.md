@@ -56,7 +56,7 @@ Purchased (0 or 1)
 Dataset file used:
 
 ```text
-datasets/day-11-Social_Network_Ads.csv
+datasets/Social_Network_Ads.csv
 ```
 
 ---
