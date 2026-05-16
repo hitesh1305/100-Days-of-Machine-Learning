@@ -35,8 +35,7 @@
 | --- | ------------------------------- | ------ | ------------------------------------------------------------ |
 | 11 | K-Nearest Neighbors (KNN) | ✅ | KNN intuition, Euclidean distance, feature scaling, majority voting, value of K, lazy learning, instance-based learning, confusion matrix |
 | 12 | Decision Tree Classification | ✅ | entropy, information gain, recursive splitting, impurity reduction, overfitting intuition, feature importance, Iris dataset classification, tree visualization |
-| 13  | Regression Evaluation Metrics   | ⏳      | MAE, MSE, RMSE, adjusted R², bias vs variance                |
-| 14  | Logistic Regression             | ⏳      | sigmoid function, binary classification intuition            |
+| 13–14 | Hands-on Linear Algebra for Machine Learning | ✅ | scalars, vectors, matrices, tensors, dot product, matrix multiplication, Euclidean distance, transpose, determinant, inverse matrix, eigenvalues/eigenvectors, ML mathematical intuition |
 | 15  | K-Nearest Neighbors (KNN)       | ⏳      | distance metrics, lazy learning, nearest neighbor intuition  |
 | 16  | Support Vector Machine (SVM)    | ⏳      | maximum margin classifier, kernels, hyperplanes              |
 | 17  | Naive Bayes                     | ⏳      | conditional probability, Bayes theorem in ML                 |
